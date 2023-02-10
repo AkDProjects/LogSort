@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.innoventsolutions.birt.runtime:org.apache.commons.logging_1.1.1.v201101211721:4.8.0" type="repository">
+    <properties maven-id="com.innoventsolutions.birt.runtime:org.apache.commons.logging_1.1.1.v201101211721:4.8.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/innoventsolutions/birt/runtime/org.apache.commons.logging_1.1.1.v201101211721/4.8.0/org.apache.commons.logging_1.1.1.v201101211721-4.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
